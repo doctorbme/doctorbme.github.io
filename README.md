@@ -1,4 +1,4 @@
-## docborBME @ Steemit
+## doctorBME @ Steemit
 
 ![profile1](prof2.png)
 
