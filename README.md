@@ -2,8 +2,11 @@
 
 ![profile1](prof2.png)
 
-#Steemit#
+# Steemit #
+
 https://steemit.com/@doctorbme
 
-#contact#
+
+# contact #
+
 doctorbme.steemit@gmail.com
